@@ -1,37 +1,31 @@
 # Google Summer of Code 2024: Math Games for Sugar
 
-During the Google Summer of Code 2024, I dedicated my efforts to developing **eight interactive math games** for the Sugar learning platform. My objective was to create engaging and educational experiences that helped learners improve their math skills through fun gameplay. Throughout this project, I focused on designing unique visual representations and assets using Adobe Photoshop, ensuring that each game not only served its educational purpose but also captivated users with appealing graphics. The development encompassed essential functionalities, which enhanced the overall gaming experience.
+During the Google Summer of Code 2024, I dedicated my efforts to developing interactive math games for the Sugar learning platform. My objective was to create engaging and educational experiences that helped learners improve their math skills through fun gameplay. Throughout this project, I focused on designing unique visual representations and assets using Adobe Photoshop, ensuring that each game not only served its educational purpose but also captivated users with appealing graphics. The development encompassed essential functionalities, which enhanced the overall gaming experience.
 
 This project allowed me to deepen my understanding of game development, visual design, and educational technology while also providing an opportunity to contribute meaningfully to the Sugar community. I successfully navigated the challenges and learning experiences that arose during this exciting journey, ultimately delivering a set of games that I hope will inspire and educate learners.
 
+## 🎮 Table of Activities
 
-## Table of Activities
+| **Activity Name**                        | **Link**                                                                                                                                       |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **River Crossing Activity**              | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sugarlabs/river-crossing-activity)                                  |
+| **Nim Game Activity**                    | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sugarlabs/nim-game-activity)                                         |
+| **Illusion Box**                        | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sugarlabs/illusion-box)                                              |
+| **Latin Squares Activity**               | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sugarlabs/latin-squares-activity)                                   |
+| **Pascal Triangle Visualization**       | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sugarlabs/pascal-triangle-visualisation)                             |
+| **Fourier Series Visualization**        | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sugarlabs/fourier-series-visulaisation)                              |
+| **Game of Logic**                       | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/marsian83/game-of-logic)                                            |
 
-| Activity Name                  |                                                        |
-|--------------------------------|--------------------------------------------------------|
-| **River Crossing Activity**    | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/sugarlabs/river-crossing-activity) |
-| **Nim Game Activity**          | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/sugarlabs/nim-game-activity)       |
-| **Illusion Box**                 | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/sugarlabs/illusion-box)                       |
-| **Latin Squares Activity**                 | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/sugarlabs/latin-squares-activity)             |
-| **Pascal Traingle Visualisation**                 | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/sugarlabs/pascal-triangle-visualisation)                       |
-| **Fourier Series Visulaisation**                 | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/sugarlabs/fourier-series-visulaisation)       |
-| **Game of Logic**                 | [<img src="https://skillicons.dev/icons?i=github" width="30"/>](https://github.com/marsian83/game-of-logic)                       |
-
-
-
-
-## Detailed Activities Description
-
+## 📖 Detailed Activities Description
 
 ### River Crossing Activity | [GitHub Repo](https://github.com/sugarlabs/river-crossing-activity)
-The **River Crossing Activity** is an engaging puzzle game inspired by the classic "Goat, Cabbage, and Wolf" riddle. In this game, players take on the role of a farmer who must transport his belongings across a river. However, the farmer faces a dilemma: only one item can be transported at a time, and certain items cannot be left together without supervision. 
+The **River Crossing Activity** is an engaging puzzle game inspired by the classic "Goat, Cabbage, and Wolf" riddle. In this game, players take on the role of a farmer who must transport his belongings across a river. However, the farmer faces a dilemma: only one item can be transported at a time, and certain items cannot be left together without supervision.
 
 The objective is to figure out how to safely get all the items across the river without anything being lost or damaged. Players must think logically and plan their moves carefully to solve the puzzle. The game encourages problem-solving skills and critical thinking while keeping the player entertained.
 
-With multiple levels and themes, this version of the river-crossing puzzle offers a fresh and visually appealing twist on the classic brainteaser. Perfect for users of all ages, it is designed to challenge the mind while being fun and accessible.
+With multiple themes, this version of the river-crossing puzzle offers a fresh and visually appealing twist on the classic brainteaser. Perfect for users of all ages, it is designed to challenge the mind while being fun and accessible.
 
-<img width="1080" alt="316610974-de1b31ce-abbc-4a09-b4b6-09356c64f9ff" src="https://github.com/user-attachments/assets/cd0e12dc-ccb3-4052-9f87-9158f6169af0">
-
+![River Crossing Activity](https://github.com/user-attachments/assets/cd0e12dc-ccb3-4052-9f87-9158f6169af0)
 
 ---
 
@@ -40,7 +34,6 @@ The **Nims Game Activity** is a strategic, turn-based game where players take tu
 
 In the game, you can customize several settings to adjust both visuals and gameplay:
 - **Visual settings** allow players to change the appearance of the enemy (e.g., Robot) and the items used in the game (e.g., coins or matchsticks).
-- **Gameplay configurations** let you customize the number of rows, the number of items per row, and set a custom limit on how many items can be removed per turn.
 
 The AI for this game is based on the "Winning Arithmetic Progression" or "Zero Nim Sum" concept used in similar Nim-style games. This ensures that the computer (Robot) can employ optimal strategies to challenge players. Additionally, the game will feature difficulty levels:
 - **Normal**
@@ -51,9 +44,7 @@ In the **Impossible** mode, the bot will always play perfectly, making it nearly
 
 The images below showcase concept art designed to envision how the game will look. Players will enjoy a visually appealing interface alongside strategic gameplay.
 
-![375747626-6023d443-302a-48c2-9d7f-24ff07c5bcfc](https://github.com/user-attachments/assets/ea438057-b379-4621-8f5f-838523593c10)
-
-
+![Nim Game Activity](https://github.com/user-attachments/assets/ea438057-b379-4621-8f5f-838523593c10)
 
 ---
 
@@ -74,9 +65,7 @@ Some of the illusions included are:
 
 With many more illusions available, the Illusion Box offers a fascinating and interactive way to explore how visual perception can be tricked. Users can interact with the illusions, and navigate through multiple sections to view different types of illusions.
 
-![image](https://github.com/user-attachments/assets/a4e7e99b-35ad-4649-b0be-1e254493c3f6)
-
-
+![Illusion Box Activity](https://github.com/user-attachments/assets/a4e7e99b-35ad-4649-b0be-1e254493c3f6)
 
 ---
 
@@ -97,9 +86,7 @@ The **Latin Square Activity** is a mathematical puzzle game that challenges play
 
 This interactive puzzle is designed to be both educational and engaging, encouraging players to think critically and sharpen their problem-solving abilities.
 
-
-![Image](https://github.com/user-attachments/assets/2f1fbe79-51e2-4750-921c-d1c82d5bb5f6)
-
+![Latin Square Activity](https://github.com/user-attachments/assets/2f1fbe79-51e2-4750-921c-d1c82d5bb5f6)
 
 ---
 
@@ -117,70 +104,66 @@ The **Pascal Triangle Visualization Activity** provides an interactive and custo
 - **Cell Calculation:**  
   Each cell of the triangle is calculated based on its two neighboring cells from the row above, using the formula:  
   `p = (q1 + q2) mod N`  
-  Where **p** is the value of the current cell, **q1** and **q2** are the values from the row above, and **N** is the selected modulo.
+  Where **p** is the value of the current cell, **q1** and **q2** are the values of the two neighboring cells from the previous row, and **N** is the modulo value.
 
-- **Number or Color Display:**  
-  Players can switch between viewing the triangle as a collection of numbers or a colorful representation. This adds an extra dimension to the visual exploration of Pascal’s Triangle, making it both an educational and visually engaging activity.
+- **Interactive Exploration:**  
+  Users can click on individual cells to see additional properties and patterns emerge, making the exploration of Pascal's Triangle a fun and educational experience.
 
-With these options, users can experiment with the mathematical properties of Pascal’s Triangle, customize their experience, and discover patterns and insights in an interactive way.
+With its engaging features, the **Pascal Triangle Visualization Activity** provides a fascinating way for users to interact with mathematical concepts and gain a deeper understanding of this important mathematical structure.
 
 
-![Image](https://github.com/user-attachments/assets/0a33839b-52d3-47d9-a252-5fb5216ec65a)
-
+![376041515-0a33839b-52d3-47d9-a252-5fb5216ec65a](https://github.com/user-attachments/assets/098d5724-5509-4952-a881-3b4b3efa9263)
 
 ---
 
 ### Fourier Transform Visualization Activity | [GitHub Repo](https://github.com/sugarlabs/fourier-series-visulaisation)
 
-The **Fourier Series Visualization Activity** is an interactive tool that helps users understand and explore the concepts of Fourier series through dynamic visual representations. By manipulating various parameters, users can gain insights into how complex waveforms are constructed from simple sinusoidal functions.
+The **Fourier Transform Visualization Activity** is an engaging educational tool designed to help users explore the principles of Fourier transforms and Fourier series. This interactive application allows users to manipulate visual elements to better understand how complex waveforms can be represented as a sum of simple sinusoidal functions.
 
-**Features and Gameplay:**
+**Features and Functionality:**
+
 - **Circle Adjustment:**  
-  Users can increase or decrease the number of circles displayed in the visualization. This feature corresponds to the accuracy of the Fourier series representation. More circles lead to a more detailed and accurate approximation of the target waveform, while fewer circles provide a simplified view.
+  Users can increase or decrease the number of circles displayed in the visualization. The number of circles corresponds to the accuracy of the Fourier series representation; more circles result in a more accurate approximation of the target waveform, while fewer circles provide a more simplified version. This feature allows users to see how the complexity of the representation affects the final output.
 
 - **Frequency Control:**  
-  The activity allows users to adjust the frequency of the displayed waves. Increasing the frequency results in more oscillations within the same time interval, illustrating how frequency affects the shape of the waveform. Conversely, decreasing the frequency results in fewer oscillations, offering a clearer perspective on the fundamental characteristics of the signal.
+  The activity includes a frequency adjustment option, enabling users to increase or decrease the frequency of the displayed waveforms. Changing the frequency alters the number of oscillations within the same time frame, demonstrating the relationship between frequency and wave shape. Users can observe how higher frequencies create more rapid oscillations, while lower frequencies produce smoother, slower waves.
 
-- **Real-Time Visualization:**  
-  As users manipulate the number of circles and the frequency, the visualization updates in real-time. This immediate feedback enhances understanding by demonstrating how changes in parameters impact the Fourier series and the resulting waveforms.
+- **Real-Time Updates:**  
+  As users modify the number of circles and the frequency, the visualization updates in real-time. This immediate feedback helps users understand how different parameters influence the construction of waveforms, allowing for an intuitive exploration of Fourier transforms.
 
-Through this activity, users can explore the fundamental principles of Fourier series, gaining a deeper appreciation for how complex signals can be represented as a sum of simpler sinusoidal components. This hands-on approach is beneficial for learners of all ages, making the concepts of signal processing, acoustics, and other applications more accessible.
+- **Educational Value:**  
+  This interactive tool serves as a practical resource for students and enthusiasts alike, providing a hands-on approach to learning about Fourier analysis. By visualizing how complex signals are decomposed into their constituent frequencies, users gain a deeper appreciation for the applications of Fourier transforms in various fields, including signal processing, acoustics, and image analysis.
+
+Through this engaging and user-friendly interface, the **Fourier Transform Visualization Activity** encourages exploration and experimentation, making the intricate concepts of Fourier analysis accessible to learners of all ages.
 
 
-![Image](https://github.com/user-attachments/assets/9e92a297-c63f-4175-a780-5aa2b24dc260)
-
----
-
-### Logical Syllogisms Game | [GitHub Repo](https://github.com/user/repo-name)
-
-The **Logical Syllogisms Game** is an educational tool designed to help players, particularly children, understand the fundamentals of logical reasoning and propositional syllogisms. The game presents a series of logical propositions, encouraging players to visualize and interact with the underlying logic while also learning about common fallacies.
-
-**Gameplay Overview:**
-- **Syllogism Selection:**  
-  Players begin by selecting from a given set of logical syllogisms, such as “Some cakes are wholesome.” Upon selection, the game board will display the involved attributes (e.g., cakes, wholesome) relevant to the chosen syllogism.
-
-- **Interactive Game Board:**  
-  The game features a trilateral grid where players will attempt to represent the selected propositions accurately. The grid allows for exploration of logical relationships and visual representation of syllogistic reasoning.
-
-- **State Cycling:**  
-  Each grid box can cycle through four possible states, allowing players to mark their logical associations:
-  1. **Some:** Some X are M.
-  2. **None:** No X are M.
-  3. **Division Line:** Represents a division between the two sets.
-  4. **Unmarked:** Indicates no selection has been made.
-
-- **Hover and Feedback:**  
-  Hovering over grid boxes will reveal the logical associations they represent, providing real-time feedback and enhancing understanding. Players will also receive immediate feedback on their selections, indicating whether their markings are correct and identifying any fallacies that may arise from their choices.
-
-- **Fallacy Education:**  
-  As players interact with the game, they may encounter logical fallacies, helping them understand how flawed reasoning can stem from seemingly valid premises. This aspect fosters critical thinking and sharpens logical skills.
-
-- **Data Management:**  
-  All syllogisms, their respective answers, and any associated fallacies are hardcoded and stored in a JSON file. This structure allows for easy updates and contributions from other developers, enabling the addition of new propositions and enhancing the game’s educational content.
-
-This engaging game not only aids in learning logic but also encourages critical thinking and problem-solving skills, making it an excellent resource for both individual play and classroom use.
+![376041944-9e92a297-c63f-4175-a780-5aa2b24dc260](https://github.com/user-attachments/assets/dbb0c9e7-eea2-4516-a560-b854d3000272)
 
 ---
 
-## Acknowledgments
-I would like to thank the Sugar community for their support and guidance throughout this project, as well as my mentors for their invaluable feedback and encouragement.
+### Game of Logic Activity | [GitHub Repo](https://github.com/marsian83/game-of-logic)
+
+The **Game of Logic Activity** is an interactive puzzle game designed to enhance logical reasoning skills. The game challenges players to deduce patterns and relationships among various elements to solve puzzles.
+
+**Gameplay Mechanics:**
+- Players are presented with a series of logic puzzles that require them to analyze given clues and make deductions based on logical reasoning.
+- The puzzles vary in difficulty and complexity, allowing players to progress from simpler challenges to more intricate problems.
+
+**Features:**
+- **Hints:**  
+  Players can receive hints to guide them through challenging puzzles. Hints are designed to nudge players in the right direction without giving away the solution entirely.
+
+- **Timer:**  
+  Each puzzle comes with a timer, encouraging players to think quickly and efficiently while solving problems.
+
+This activity aims to foster critical thinking and problem-solving skills while providing a fun and engaging experience for users of all ages. The Game of Logic Activity combines elements of strategy and deduction to create an enjoyable and educational gameplay experience.
+
+---
+
+## 📣 Conclusion
+This project was an enriching experience, allowing me to explore game development and contribute to educational tools that promote learning through play. I hope these activities make math learning more engaging and enjoyable for users of all ages. Thank you for your support!
+
+---
+
+## 🚀 Acknowledgments
+Special thanks to the **Sugar Labs community** and the **Google Summer of Code 2024** program for the opportunity to work on this project and for their continuous support and guidance throughout my journey.
