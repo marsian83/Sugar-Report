@@ -1,5 +1,14 @@
 # Google Summer of Code 2024: Math Games for Sugar
 
+Name - Spandan Barve
+
+Email - spandan567@gmail.com
+
+GitHub username - [marsian83](https://github.com/marsian83)
+
+Mentor - [Ibiam Chihurumnaya](https://github.com/chimosky)
+
+
 During the Google Summer of Code 2024, I dedicated my efforts to developing interactive math games for the Sugar learning platform. My objective was to create engaging and educational experiences that helped learners improve their math skills through fun gameplay. Throughout this project, I focused on designing unique visual representations and assets using Adobe Photoshop, ensuring that each game not only served its educational purpose but also captivated users with appealing graphics. The development encompassed essential functionalities, which enhanced the overall gaming experience.
 
 This project allowed me to deepen my understanding of game development, visual design, and educational technology while also providing an opportunity to contribute meaningfully to the Sugar community. I successfully navigated the challenges and learning experiences that arose during this exciting journey, ultimately delivering a set of games that I hope will inspire and educate learners.
